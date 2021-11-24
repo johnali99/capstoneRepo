@@ -1,0 +1,524 @@
+2021-11-09 21:53:46,949 [main] INFO logger_File - Actual title is matching expected title
+2021-11-09 21:53:47,053 [main] INFO logger_File - user clicked desktop menu
+2021-11-09 21:53:48,681 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-10 12:49:25,903 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 12:49:26,106 [main] INFO logger_File - User clicked on my account
+2021-11-10 12:49:29,151 [main] INFO logger_File - User clicked on login
+2021-11-10 12:51:20,235 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 12:51:20,384 [main] INFO logger_File - User clicked on my account
+2021-11-10 12:51:21,454 [main] INFO logger_File - User clicked on login
+2021-11-10 12:54:29,060 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 12:54:29,213 [main] INFO logger_File - User clicked on my account
+2021-11-10 12:54:33,701 [main] INFO logger_File - User clicked on login
+2021-11-10 13:02:40,084 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 13:02:40,327 [main] INFO logger_File - User clicked on my account
+2021-11-10 13:02:41,028 [main] INFO logger_File - User clicked on login
+2021-11-10 13:09:23,894 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 13:09:24,057 [main] INFO logger_File - User clicked on my account
+2021-11-10 13:09:25,498 [main] INFO logger_File - User clicked on login
+2021-11-10 13:11:09,273 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 13:11:09,467 [main] INFO logger_File - User clicked on my account
+2021-11-10 13:11:10,625 [main] INFO logger_File - User clicked on login
+2021-11-10 13:22:30,220 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 13:22:30,375 [main] INFO logger_File - User clicked on my account
+2021-11-10 13:22:32,515 [main] INFO logger_File - User clicked on login
+2021-11-10 13:22:32,821 [main] INFO logger_File - User entered sar@gmail.com
+2021-11-10 13:22:32,822 [main] INFO logger_File - user entered password 123456
+2021-11-10 13:22:34,991 [main] INFO logger_File - User clicked on login button
+2021-11-10 13:22:35,079 [main] INFO logger_File - My account dashboard is displayed
+2021-11-10 13:22:36,610 [main] INFO logger_File - user clicked on edit yoru information account
+2021-11-10 14:48:01,042 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 14:48:01,133 [main] INFO logger_File - User clicked on my account
+2021-11-10 14:48:03,282 [main] INFO logger_File - User clicked on login
+2021-11-10 14:48:03,488 [main] INFO logger_File - User entered sar@gmail.com
+2021-11-10 14:48:03,489 [main] INFO logger_File - user entered password 123456
+2021-11-10 14:48:05,899 [main] INFO logger_File - User clicked on login button
+2021-11-10 14:48:05,962 [main] INFO logger_File - My account dashboard is displayed
+2021-11-10 14:48:08,646 [main] INFO logger_File - user clicked on edit yoru information account
+2021-11-10 14:49:14,364 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 14:49:14,455 [main] INFO logger_File - User clicked on my account
+2021-11-10 14:49:14,834 [main] INFO logger_File - User clicked on login
+2021-11-10 14:49:15,099 [main] INFO logger_File - User entered sar@gmail.com
+2021-11-10 14:49:15,100 [main] INFO logger_File - user entered password 123456
+2021-11-10 14:49:16,003 [main] INFO logger_File - User clicked on login button
+2021-11-10 14:49:16,108 [main] INFO logger_File - My account dashboard is displayed
+2021-11-10 15:29:44,310 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 15:29:44,368 [main] INFO logger_File - User clicked on my account
+2021-11-10 15:29:44,719 [main] INFO logger_File - User clicked on login
+2021-11-10 15:29:44,847 [main] INFO logger_File - User entered sar@gmail.com
+2021-11-10 15:29:44,847 [main] INFO logger_File - user entered password 123456
+2021-11-10 15:29:45,686 [main] INFO logger_File - User clicked on login button
+2021-11-10 15:29:45,768 [main] INFO logger_File - My account dashboard is displayed
+2021-11-10 15:29:47,339 [main] INFO logger_File - User clicked on affiliate Information
+2021-11-10 15:29:47,392 [main] INFO logger_File - User clicked on Bank transfer button
+2021-11-10 15:29:47,695 [main] INFO logger_File - User entered bank information [{bankName=TD Bank, abaNumber=348734, swiftCode=T323, accountName=Ali Mohammadi, accountNumber=54657676}]
+2021-11-10 15:29:49,149 [main] INFO logger_File - User clicked on Continue button
+2021-11-10 15:30:25,784 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 15:30:25,837 [main] INFO logger_File - User clicked on my account
+2021-11-10 15:30:26,292 [main] INFO logger_File - User clicked on login
+2021-11-10 15:30:26,428 [main] INFO logger_File - User entered sar@gmail.com
+2021-11-10 15:30:26,429 [main] INFO logger_File - user entered password 123456
+2021-11-10 15:30:27,817 [main] INFO logger_File - User clicked on login button
+2021-11-10 15:30:27,861 [main] INFO logger_File - My account dashboard is displayed
+2021-11-10 15:30:28,343 [main] INFO logger_File - User clicked on affiliate Information
+2021-11-10 15:30:28,397 [main] INFO logger_File - User clicked on Bank transfer button
+2021-11-10 15:30:28,677 [main] INFO logger_File - User entered bank information [{bankName=TD Bank, abaNumber=348734, swiftCode=T323, accountName=Ali Mohammadi, accountNumber=54657676}]
+2021-11-10 15:30:29,118 [main] INFO logger_File - User clicked on Continue button
+2021-11-10 15:43:15,502 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 15:43:15,563 [main] INFO logger_File - User clicked on my account
+2021-11-10 15:43:16,300 [main] INFO logger_File - User clicked on login
+2021-11-10 15:43:16,440 [main] INFO logger_File - User entered sar@gmail.com
+2021-11-10 15:43:16,440 [main] INFO logger_File - user entered password 123456
+2021-11-10 15:43:19,055 [main] INFO logger_File - User clicked on login button
+2021-11-10 15:43:19,121 [main] INFO logger_File - My account dashboard is displayed
+2021-11-10 15:43:20,811 [main] INFO logger_File - user clicked on edit yoru information account
+2021-11-10 15:43:21,057 [main] INFO logger_File - User entered informations as [{firstname=Ali, lastName=Mohammadi, email=ali@gmail.com, telephone=4356668878}]
+2021-11-10 15:43:21,114 [main] INFO logger_File - User clicked on continue button
+2021-11-10 15:45:06,324 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 15:45:06,385 [main] INFO logger_File - User clicked on my account
+2021-11-10 15:45:07,012 [main] INFO logger_File - User clicked on login
+2021-11-10 15:45:07,144 [main] INFO logger_File - User entered sar@gmail.com
+2021-11-10 15:45:07,144 [main] INFO logger_File - user entered password 123456
+2021-11-10 15:45:08,268 [main] INFO logger_File - User clicked on login button
+2021-11-10 15:45:08,313 [main] INFO logger_File - My account dashboard is displayed
+2021-11-10 15:45:09,125 [main] INFO logger_File - User clicked on affiliate Information
+2021-11-10 15:45:09,178 [main] INFO logger_File - User clicked on Bank transfer button
+2021-11-10 15:45:09,457 [main] INFO logger_File - User entered bank information [{bankName=TD Bank, abaNumber=348734, swiftCode=T323, accountName=Ali Mohammadi, accountNumber=54657676}]
+2021-11-10 15:45:10,243 [main] INFO logger_File - User clicked on Continue button
+2021-11-10 15:45:13,239 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 15:45:13,291 [main] INFO logger_File - User clicked on my account
+2021-11-10 15:45:13,706 [main] INFO logger_File - User clicked on login
+2021-11-10 15:45:13,828 [main] INFO logger_File - User entered sar@gmail.com
+2021-11-10 15:45:13,828 [main] INFO logger_File - user entered password 123456
+2021-11-10 15:45:14,494 [main] INFO logger_File - User clicked on login button
+2021-11-10 15:45:14,527 [main] INFO logger_File - My account dashboard is displayed
+2021-11-10 15:45:15,335 [main] INFO logger_File - user clicked on edit yoru information account
+2021-11-10 15:45:15,570 [main] INFO logger_File - User entered informations as [{firstname=Ali, lastName=Mohammadi, email=ali@gmail.com, telephone=4356668878}]
+2021-11-10 15:45:15,627 [main] INFO logger_File - User clicked on continue button
+2021-11-10 15:46:17,299 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 15:46:17,355 [main] INFO logger_File - User clicked on my account
+2021-11-10 15:46:19,579 [main] INFO logger_File - User clicked on login
+2021-11-10 15:46:19,707 [main] INFO logger_File - User entered sar@gmail.com
+2021-11-10 15:46:19,707 [main] INFO logger_File - user entered password 123456
+2021-11-10 15:46:22,705 [main] INFO logger_File - User clicked on login button
+2021-11-10 15:46:22,751 [main] INFO logger_File - My account dashboard is displayed
+2021-11-10 15:46:25,017 [main] INFO logger_File - User clicked on affiliate Information
+2021-11-10 15:46:25,071 [main] INFO logger_File - User clicked on Bank transfer button
+2021-11-10 15:46:25,342 [main] INFO logger_File - User entered bank information [{bankName=TD Bank, abaNumber=348734, swiftCode=T323, accountName=Ali Mohammadi, accountNumber=54657676}]
+2021-11-10 15:46:28,582 [main] INFO logger_File - User clicked on Continue button
+2021-11-10 15:46:32,714 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 15:46:32,775 [main] INFO logger_File - User clicked on my account
+2021-11-10 15:46:34,418 [main] INFO logger_File - User clicked on login
+2021-11-10 15:46:34,555 [main] INFO logger_File - User entered sar@gmail.com
+2021-11-10 15:46:34,555 [main] INFO logger_File - user entered password 123456
+2021-11-10 15:46:36,963 [main] INFO logger_File - User clicked on login button
+2021-11-10 15:46:37,022 [main] INFO logger_File - My account dashboard is displayed
+2021-11-10 15:46:39,424 [main] INFO logger_File - user clicked on edit yoru information account
+2021-11-10 15:46:39,652 [main] INFO logger_File - User entered informations as [{firstname=Ali, lastName=Mohammadi, email=ali@gmail.com, telephone=4356668878}]
+2021-11-10 15:46:39,709 [main] INFO logger_File - User clicked on continue button
+2021-11-10 15:47:20,838 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 15:47:20,897 [main] INFO logger_File - User clicked on my account
+2021-11-10 15:47:22,401 [main] INFO logger_File - User clicked on login
+2021-11-10 15:47:22,530 [main] INFO logger_File - User entered sar@gmail.com
+2021-11-10 15:47:22,530 [main] INFO logger_File - user entered password 123456
+2021-11-10 15:47:24,425 [main] INFO logger_File - User clicked on login button
+2021-11-10 15:47:24,468 [main] INFO logger_File - My account dashboard is displayed
+2021-11-10 15:47:25,308 [main] INFO logger_File - User clicked on affiliate Information
+2021-11-10 15:47:25,363 [main] INFO logger_File - User clicked on Bank transfer button
+2021-11-10 15:47:25,644 [main] INFO logger_File - User entered bank information [{bankName=TD Bank, abaNumber=348734, swiftCode=T323, accountName=Ali Mohammadi, accountNumber=54657676}]
+2021-11-10 15:47:26,865 [main] INFO logger_File - User clicked on Continue button
+2021-11-10 15:47:29,663 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 15:47:29,716 [main] INFO logger_File - User clicked on my account
+2021-11-10 15:47:30,098 [main] INFO logger_File - User clicked on login
+2021-11-10 15:47:30,221 [main] INFO logger_File - User entered sar@gmail.com
+2021-11-10 15:47:30,222 [main] INFO logger_File - user entered password 123456
+2021-11-10 15:47:31,002 [main] INFO logger_File - User clicked on login button
+2021-11-10 15:47:31,039 [main] INFO logger_File - My account dashboard is displayed
+2021-11-10 15:47:32,858 [main] INFO logger_File - user clicked on edit yoru information account
+2021-11-10 15:47:33,093 [main] INFO logger_File - User entered informations as [{firstname=sar, lastName=war, email=sar@gmail.com, telephone=4356668878}]
+2021-11-10 15:47:33,150 [main] INFO logger_File - User clicked on continue button
+2021-11-10 15:51:54,860 [main] INFO logger_File - User clicked on shopping cart
+2021-11-10 16:04:47,245 [main] INFO logger_File - User clicked on shopping cart
+2021-11-10 16:07:56,355 [main] INFO logger_File - User clicked on shopping cart
+2021-11-10 16:10:07,020 [main] INFO logger_File - User clicked on shopping cart
+2021-11-10 16:11:09,873 [main] INFO logger_File - User clicked on shopping cart
+2021-11-10 16:11:29,768 [main] INFO logger_File - User clicked on shopping cart
+2021-11-10 16:17:00,193 [main] INFO logger_File - User clicked on shopping cart
+2021-11-10 16:17:28,728 [main] INFO logger_File - User clicked on shopping cart
+2021-11-10 16:32:17,157 [main] INFO logger_File - User clicked on shopping cart
+2021-11-10 16:32:59,729 [main] INFO logger_File - User clicked on shopping cart
+2021-11-10 16:33:25,094 [main] INFO logger_File - User clicked on shopping cart
+2021-11-10 16:35:37,025 [main] INFO logger_File - User clicked on shopping cart
+2021-11-10 17:27:35,180 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 17:27:35,227 [main] INFO logger_File - user clicked desktop menu
+2021-11-10 17:27:35,842 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-10 17:28:25,152 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 17:28:25,202 [main] INFO logger_File - user clicked desktop menu
+2021-11-10 17:28:25,795 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-10 17:32:42,175 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 17:32:42,229 [main] INFO logger_File - user clicked desktop menu
+2021-11-10 17:32:42,944 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-10 17:35:09,043 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 17:35:09,090 [main] INFO logger_File - user clicked desktop menu
+2021-11-10 17:35:09,673 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-10 17:35:09,753 [main] INFO logger_File - Desktop text present
+2021-11-10 17:37:00,807 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 17:37:00,857 [main] INFO logger_File - user clicked desktop menu
+2021-11-10 17:37:03,566 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-10 17:37:03,622 [main] INFO logger_File - Desktop text present
+2021-11-10 17:38:32,680 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 17:38:32,728 [main] INFO logger_File - user clicked desktop menu
+2021-11-10 17:38:33,266 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-10 17:38:33,328 [main] INFO logger_File - Desktop text present
+2021-11-10 17:38:33,358 [main] INFO logger_File - Desktop image is present in the page
+2021-11-10 17:39:52,381 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 17:39:52,431 [main] INFO logger_File - user clicked desktop menu
+2021-11-10 17:39:53,034 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-10 17:39:53,078 [main] INFO logger_File - Desktop text present
+2021-11-10 17:39:53,109 [main] INFO logger_File - Desktop image is present in the page
+2021-11-10 17:39:53,134 [main] INFO logger_File - Example of category description text is present
+2021-11-10 17:40:41,077 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 17:40:41,129 [main] INFO logger_File - user clicked desktop menu
+2021-11-10 17:40:41,793 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-10 17:40:41,852 [main] INFO logger_File - Desktop text present
+2021-11-10 17:40:41,881 [main] INFO logger_File - Desktop image is present in the page
+2021-11-10 17:40:41,905 [main] INFO logger_File - Example of category description text is present
+2021-11-10 17:40:41,932 [main] INFO logger_File - Refine Search text is present
+2021-11-10 17:41:28,330 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 17:41:28,380 [main] INFO logger_File - user clicked desktop menu
+2021-11-10 17:41:28,934 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-10 17:41:28,976 [main] INFO logger_File - Desktop text present
+2021-11-10 17:41:29,003 [main] INFO logger_File - Desktop image is present in the page
+2021-11-10 17:41:29,028 [main] INFO logger_File - Example of category description text is present
+2021-11-10 17:41:29,050 [main] INFO logger_File - Refine Search text is present
+2021-11-10 17:41:29,071 [main] INFO logger_File - list icon is present
+2021-11-10 17:41:29,092 [main] INFO logger_File - Gird icon is present
+2021-11-10 17:46:45,916 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 17:46:45,970 [main] INFO logger_File - user clicked desktop menu
+2021-11-10 17:46:47,902 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-10 17:46:47,955 [main] INFO logger_File - User clicked on add to cart option
+2021-11-10 17:47:53,472 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 17:47:53,522 [main] INFO logger_File - user clicked desktop menu
+2021-11-10 17:47:54,072 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-10 17:47:54,133 [main] INFO logger_File - User clicked on add to cart option
+2021-11-10 17:47:55,947 [main] INFO logger_File - user entered value 1 in the text box
+2021-11-10 17:47:55,994 [main] INFO logger_File - user clicked on Add To Cart button
+2021-11-10 17:49:38,344 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 17:49:38,395 [main] INFO logger_File - user clicked desktop menu
+2021-11-10 17:49:38,977 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-10 17:49:39,053 [main] INFO logger_File - User clicked on add to cart option
+2021-11-10 17:49:40,835 [main] INFO logger_File - user entered value '1'  in the text box
+2021-11-10 17:49:40,880 [main] INFO logger_File - user clicked on Add To Cart button
+2021-11-10 17:50:20,561 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 17:50:20,612 [main] INFO logger_File - user clicked desktop menu
+2021-11-10 17:50:21,159 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-10 17:50:21,238 [main] INFO logger_File - User clicked on add to cart option
+2021-11-10 17:50:22,910 [main] INFO logger_File - user entered value '1'  in the text box
+2021-11-10 17:50:22,957 [main] INFO logger_File - user clicked on Add To Cart button
+2021-11-10 17:53:13,839 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 17:53:13,891 [main] INFO logger_File - user clicked desktop menu
+2021-11-10 17:53:14,427 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-10 17:53:14,484 [main] INFO logger_File - User clicked on add to cart option
+2021-11-10 17:53:16,162 [main] INFO logger_File - user entered value '1'  in the text box
+2021-11-10 17:53:16,211 [main] INFO logger_File - user clicked on Add To Cart button
+2021-11-10 17:55:59,044 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 17:55:59,092 [main] INFO logger_File - user clicked desktop menu
+2021-11-10 17:55:59,648 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-10 17:55:59,715 [main] INFO logger_File - User clicked on add to cart option
+2021-11-10 17:56:01,521 [main] INFO logger_File - user entered value '1'  in the text box
+2021-11-10 17:56:01,570 [main] INFO logger_File - user clicked on Add To Cart button
+2021-11-10 18:01:25,936 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 18:01:25,987 [main] INFO logger_File - user clicked desktop menu
+2021-11-10 18:01:26,503 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-10 18:01:26,576 [main] INFO logger_File - User clicked on add to cart option
+2021-11-10 18:01:28,275 [main] INFO logger_File - user entered value '1'  in the text box
+2021-11-10 18:01:28,323 [main] INFO logger_File - user clicked on Add To Cart button
+2021-11-10 18:02:24,673 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 18:02:24,719 [main] INFO logger_File - user clicked desktop menu
+2021-11-10 18:02:25,245 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-10 18:02:25,293 [main] INFO logger_File - User clicked on add to cart option
+2021-11-10 18:02:27,011 [main] INFO logger_File - user entered value '1'  in the text box
+2021-11-10 18:02:27,059 [main] INFO logger_File - user clicked on Add To Cart button
+2021-11-10 18:03:44,178 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 18:03:44,229 [main] INFO logger_File - user clicked desktop menu
+2021-11-10 18:03:44,969 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-10 18:03:45,056 [main] INFO logger_File - User clicked on add to cart option
+2021-11-10 18:03:47,176 [main] INFO logger_File - user entered value '1'  in the text box
+2021-11-10 18:03:47,225 [main] INFO logger_File - user clicked on Add To Cart button
+2021-11-10 18:08:12,636 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 18:08:12,683 [main] INFO logger_File - user clicked desktop menu
+2021-11-10 18:08:13,192 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-10 18:08:13,241 [main] INFO logger_File - User clicked on add to cart option
+2021-11-10 18:08:15,036 [main] INFO logger_File - user entered value '1'  in the text box
+2021-11-10 18:08:15,080 [main] INFO logger_File - user clicked on Add To Cart button
+2021-11-10 18:20:57,451 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 18:20:57,505 [main] INFO logger_File - user clicked desktop menu
+2021-11-10 18:20:58,133 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-10 18:20:58,180 [main] INFO logger_File - User clicked on Canon Add to Cart Button
+2021-11-10 18:20:59,975 [main] INFO logger_File - User selected Red Color from the dropdown list
+2021-11-10 18:21:28,627 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 18:21:28,678 [main] INFO logger_File - user clicked desktop menu
+2021-11-10 18:21:29,212 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-10 18:21:29,262 [main] INFO logger_File - User clicked on Canon Add to Cart Button
+2021-11-10 18:21:30,964 [main] INFO logger_File - User selected Red Color from the dropdown list
+2021-11-10 18:22:10,611 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 18:22:10,659 [main] INFO logger_File - user clicked desktop menu
+2021-11-10 18:22:11,205 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-10 18:22:11,278 [main] INFO logger_File - User clicked on Canon Add to Cart Button
+2021-11-10 18:22:13,052 [main] INFO logger_File - User selected Red Color from the dropdown list
+2021-11-10 18:23:00,253 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 18:23:00,304 [main] INFO logger_File - user clicked desktop menu
+2021-11-10 18:23:00,923 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-10 18:23:00,989 [main] INFO logger_File - User clicked on Canon Add to Cart Button
+2021-11-10 18:23:02,893 [main] INFO logger_File - User selected Red Color from the dropdown list
+2021-11-10 18:24:04,483 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 18:24:04,532 [main] INFO logger_File - user clicked desktop menu
+2021-11-10 18:24:05,402 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-10 18:24:05,462 [main] INFO logger_File - User clicked on Canon Add to Cart Button
+2021-11-10 18:24:07,987 [main] INFO logger_File - User selected Red Color from the dropdown list
+2021-11-10 18:24:08,049 [main] INFO logger_File - User selected 1
+2021-11-10 18:24:08,100 [main] INFO logger_File - User clicked on add to cart button
+2021-11-10 18:30:39,378 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 18:30:39,431 [main] INFO logger_File - user clicked desktop menu
+2021-11-10 18:30:40,361 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-10 18:30:40,409 [main] INFO logger_File - User clicked on Canon Add to Cart Button
+2021-11-10 18:30:42,622 [main] INFO logger_File - User selected Red Color from the dropdown list
+2021-11-10 18:30:42,682 [main] INFO logger_File - User selected 1
+2021-11-10 18:30:42,726 [main] INFO logger_File - User clicked on add to cart button
+2021-11-10 18:31:16,962 [main] INFO logger_File - user clicked on Euro Currency
+2021-11-10 18:31:17,017 [main] INFO logger_File - Euro Currency is displayed
+2021-11-10 18:31:20,025 [main] INFO logger_File - User clicked on shopping cart
+2021-11-10 20:55:46,847 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 20:55:46,900 [main] INFO logger_File - user clicked desktop menu
+2021-11-10 20:55:47,445 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-10 20:56:46,812 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 20:56:46,862 [main] INFO logger_File - user clicked desktop menu
+2021-11-10 20:56:47,429 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-10 21:00:55,506 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 21:00:55,554 [main] INFO logger_File - user clicked desktop menu
+2021-11-10 21:00:56,294 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-10 21:01:31,162 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 21:01:31,215 [main] INFO logger_File - user clicked desktop menu
+2021-11-10 21:01:33,311 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-10 21:01:33,360 [main] INFO logger_File - User clicked on Canon Add to Cart Button
+2021-11-10 21:01:35,695 [main] INFO logger_File - User selected Red Color from the dropdown list
+2021-11-10 21:01:35,755 [main] INFO logger_File - User selected 1
+2021-11-10 21:01:35,809 [main] INFO logger_File - User clicked on add to cart button
+2021-11-10 21:01:42,728 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 21:01:42,776 [main] INFO logger_File - user clicked desktop menu
+2021-11-10 21:01:43,288 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-10 21:06:23,928 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 21:06:23,984 [main] INFO logger_File - user clicked desktop menu
+2021-11-10 21:06:25,571 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-10 21:06:25,653 [main] INFO logger_File - User clicked on Canon Add to Cart Button
+2021-11-10 21:06:27,925 [main] INFO logger_File - User selected Red Color from the dropdown list
+2021-11-10 21:06:27,991 [main] INFO logger_File - User selected 1
+2021-11-10 21:06:28,040 [main] INFO logger_File - User clicked on add to cart button
+2021-11-10 21:09:50,348 [main] INFO logger_File - Actual title is matching expected title
+2021-11-10 21:09:50,400 [main] INFO logger_File - user clicked desktop menu
+2021-11-10 21:09:51,026 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-11 11:38:16,975 [main] INFO logger_File - Actual title is matching expected title
+2021-11-11 11:38:17,024 [main] INFO logger_File - user clicked desktop menu
+2021-11-11 11:38:22,384 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-11 11:46:54,449 [main] INFO logger_File - Actual title is matching expected title
+2021-11-11 11:46:54,497 [main] INFO logger_File - user clicked desktop menu
+2021-11-11 11:46:56,643 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-11 11:53:27,998 [main] INFO logger_File - Actual title is matching expected title
+2021-11-11 11:53:28,048 [main] INFO logger_File - user clicked desktop menu
+2021-11-11 11:53:34,083 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-11 11:53:38,874 [main] INFO logger_File - User clicked on Canon Add to Cart Button
+2021-11-11 11:53:38,952 [main] INFO logger_File - User clicked on write a review link
+2021-11-11 12:03:23,808 [main] INFO logger_File - Actual title is matching expected title
+2021-11-11 12:03:23,859 [main] INFO logger_File - user clicked desktop menu
+2021-11-11 12:03:26,285 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-11 12:03:29,515 [main] INFO logger_File - User clicked on Canon Add to Cart Button
+2021-11-11 12:03:29,569 [main] INFO logger_File - User clicked on write a review link
+2021-11-11 12:03:29,823 [main] INFO logger_File - information passed
+2021-11-11 12:03:29,875 [main] INFO logger_File - User clicked on Continue Button
+2021-11-11 12:04:10,133 [main] INFO logger_File - Actual title is matching expected title
+2021-11-11 12:04:10,187 [main] INFO logger_File - user clicked desktop menu
+2021-11-11 12:04:12,376 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-11 12:04:15,230 [main] INFO logger_File - User clicked on Canon Add to Cart Button
+2021-11-11 12:04:15,277 [main] INFO logger_File - User clicked on write a review link
+2021-11-11 12:04:15,522 [main] INFO logger_File - information passed
+2021-11-11 12:04:15,575 [main] INFO logger_File - User clicked on Continue Button
+2021-11-11 12:11:31,667 [main] INFO logger_File - Actual title is matching expected title
+2021-11-11 12:11:31,713 [main] INFO logger_File - user clicked desktop menu
+2021-11-11 12:11:38,637 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-11 12:11:43,789 [main] INFO logger_File - User clicked on Canon Add to Cart Button
+2021-11-11 12:11:43,846 [main] INFO logger_File - User clicked on write a review link
+2021-11-11 12:11:44,114 [main] INFO logger_File - information passed
+2021-11-11 12:11:44,175 [main] INFO logger_File - User clicked on Continue Button
+2021-11-11 12:22:35,649 [main] INFO logger_File - Actual title is matching expected title
+2021-11-11 12:22:35,696 [main] INFO logger_File - user clicked desktop menu
+2021-11-11 12:22:38,468 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-11 12:22:41,816 [main] INFO logger_File - User clicked on Canon Add to Cart Button
+2021-11-11 12:22:41,865 [main] INFO logger_File - User clicked on write a review link
+2021-11-11 12:22:42,116 [main] INFO logger_File - information passed
+2021-11-11 12:22:42,168 [main] INFO logger_File - User clicked on Continue Button
+2021-11-11 12:24:40,480 [main] INFO logger_File - Actual title is matching expected title
+2021-11-11 12:24:40,527 [main] INFO logger_File - user clicked desktop menu
+2021-11-11 12:24:44,689 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-11 12:24:53,108 [main] INFO logger_File - User clicked on Canon Add to Cart Button
+2021-11-11 12:24:53,161 [main] INFO logger_File - User clicked on write a review link
+2021-11-11 12:24:53,422 [main] INFO logger_File - information passed
+2021-11-11 12:24:53,467 [main] INFO logger_File - User clicked on Continue Button
+2021-11-11 13:54:41,173 [main] INFO logger_File - Actual title is matching expected title
+2021-11-11 13:54:41,269 [main] INFO logger_File - User clicked on laptop and notebook tab
+2021-11-11 13:54:51,807 [main] INFO logger_File - user clicked on Add To Cart button
+2021-11-11 14:06:44,066 [main] INFO logger_File - Actual title is matching expected title
+2021-11-11 14:06:44,119 [main] INFO logger_File - User clicked on laptop and notebook tab
+2021-11-11 14:06:51,386 [main] INFO logger_File - user clicked on Add To Cart button
+2021-11-11 14:45:26,607 [main] INFO logger_File - Actual title is matching expected title
+2021-11-11 14:45:26,796 [main] INFO logger_File - User clicked on laptop and notebook tab
+2021-11-11 14:45:34,924 [main] INFO logger_File - user clicked on Add To Cart button
+2021-11-11 14:48:02,718 [main] INFO logger_File - Actual title is matching expected title
+2021-11-11 14:48:02,858 [main] INFO logger_File - User clicked on laptop and notebook tab
+2021-11-11 14:48:17,787 [main] INFO logger_File - user clicked on Add To Cart button
+2021-11-11 14:48:52,869 [main] INFO logger_File - Actual title is matching expected title
+2021-11-11 14:48:53,000 [main] INFO logger_File - User clicked on laptop and notebook tab
+2021-11-11 14:49:02,708 [main] INFO logger_File - user clicked on Add To Cart button
+2021-11-11 14:59:32,713 [main] INFO logger_File - Actual title is matching expected title
+2021-11-11 14:59:32,876 [main] INFO logger_File - User clicked on laptop and notebook tab
+2021-11-11 14:59:39,485 [main] INFO logger_File - user clicked on Add To Cart button
+2021-11-11 15:18:11,550 [main] INFO logger_File - Actual title is matching expected title
+2021-11-11 15:18:11,709 [main] INFO logger_File - User clicked on laptop and notebook tab
+2021-11-11 15:18:22,552 [main] INFO logger_File - user clicked on Add To Cart button
+2021-11-11 15:22:21,038 [main] INFO logger_File - Actual title is matching expected title
+2021-11-11 15:22:21,201 [main] INFO logger_File - User clicked on laptop and notebook tab
+2021-11-11 15:22:34,412 [main] INFO logger_File - user clicked on Add To Cart button
+2021-11-11 15:27:32,055 [main] INFO logger_File - Actual title is matching expected title
+2021-11-11 15:27:32,220 [main] INFO logger_File - User clicked on laptop and notebook tab
+2021-11-11 15:27:47,329 [main] INFO logger_File - user clicked on Add To Cart button
+2021-11-11 15:28:53,556 [main] INFO logger_File - Actual title is matching expected title
+2021-11-11 15:28:53,716 [main] INFO logger_File - User clicked on laptop and notebook tab
+2021-11-11 15:29:06,909 [main] INFO logger_File - user clicked on Add To Cart button
+2021-11-11 15:44:08,507 [main] INFO logger_File - Actual title is matching expected title
+2021-11-11 15:44:08,682 [main] INFO logger_File - User clicked on laptop and notebook tab
+2021-11-11 15:44:26,866 [main] INFO logger_File - user clicked on Add To Cart button
+2021-11-11 15:44:26,973 [main] INFO logger_File - Actual message matched the expected success message
+2021-11-11 15:47:37,532 [main] INFO logger_File - Actual title is matching expected title
+2021-11-11 15:47:37,828 [main] INFO logger_File - User clicked on laptop and notebook tab
+2021-11-11 15:47:50,183 [main] INFO logger_File - user clicked on Add To Cart button
+2021-11-11 15:47:50,585 [main] INFO logger_File - Success message is displayed
+2021-11-11 15:50:29,486 [main] INFO logger_File - Actual title is matching expected title
+2021-11-11 15:50:29,698 [main] INFO logger_File - User clicked on laptop and notebook tab
+2021-11-11 15:50:40,614 [main] INFO logger_File - user clicked on Add To Cart button
+2021-11-11 15:50:40,810 [main] INFO logger_File - Success message is displayed
+2021-11-11 15:51:56,042 [main] INFO logger_File - Actual title is matching expected title
+2021-11-11 15:51:56,191 [main] INFO logger_File - User clicked on laptop and notebook tab
+2021-11-11 15:52:12,252 [main] INFO logger_File - user clicked on Add To Cart button
+2021-11-11 15:52:12,402 [main] INFO logger_File - Success message is displayed
+2021-11-11 15:54:11,664 [main] INFO logger_File - Actual title is matching expected title
+2021-11-11 15:54:11,885 [main] INFO logger_File - User clicked on laptop and notebook tab
+2021-11-11 15:54:18,055 [main] INFO logger_File - user clicked on Add To Cart button
+2021-11-11 15:54:18,239 [main] INFO logger_File - Success message is displayed
+2021-11-11 15:56:37,844 [main] INFO logger_File - Actual title is matching expected title
+2021-11-11 15:56:38,007 [main] INFO logger_File - User clicked on laptop and notebook tab
+2021-11-11 15:56:46,296 [main] INFO logger_File - user clicked on Add To Cart button
+2021-11-11 15:56:46,703 [main] INFO logger_File - Success message is displayed
+2021-11-11 15:58:45,775 [main] INFO logger_File - Actual title is matching expected title
+2021-11-11 15:58:45,927 [main] INFO logger_File - User clicked on laptop and notebook tab
+2021-11-11 15:58:58,848 [main] INFO logger_File - user clicked on Add To Cart button
+2021-11-11 15:58:58,974 [main] INFO logger_File - Success message is displayed
+2021-11-11 15:59:02,244 [main] INFO logger_File - One item dispalyed
+2021-11-11 16:00:32,719 [main] INFO logger_File - Actual title is matching expected title
+2021-11-11 16:00:32,867 [main] INFO logger_File - User clicked on laptop and notebook tab
+2021-11-11 16:00:43,176 [main] INFO logger_File - user clicked on Add To Cart button
+2021-11-11 16:00:43,312 [main] INFO logger_File - Success message is displayed
+2021-11-11 16:00:46,457 [main] INFO logger_File - One item dispalyed
+2021-11-11 16:02:10,012 [main] INFO logger_File - Actual title is matching expected title
+2021-11-11 16:02:10,197 [main] INFO logger_File - User clicked on laptop and notebook tab
+2021-11-11 16:02:26,368 [main] INFO logger_File - user clicked on Add To Cart button
+2021-11-11 16:02:26,470 [main] INFO logger_File - Success message is displayed
+2021-11-11 16:02:29,625 [main] INFO logger_File - One item dispalyed
+2021-11-11 16:02:29,757 [main] INFO logger_File - User clicked on Cart option
+2021-11-11 16:03:33,257 [main] INFO logger_File - Actual title is matching expected title
+2021-11-11 16:03:33,467 [main] INFO logger_File - User clicked on laptop and notebook tab
+2021-11-11 16:03:43,695 [main] INFO logger_File - user clicked on Add To Cart button
+2021-11-11 16:03:43,820 [main] INFO logger_File - Success message is displayed
+2021-11-11 16:03:46,918 [main] INFO logger_File - One item dispalyed
+2021-11-11 16:03:47,068 [main] INFO logger_File - User clicked on Cart option
+2021-11-11 16:04:57,546 [main] INFO logger_File - Actual title is matching expected title
+2021-11-11 16:04:57,726 [main] INFO logger_File - User clicked on laptop and notebook tab
+2021-11-11 16:05:11,190 [main] INFO logger_File - user clicked on Add To Cart button
+2021-11-11 16:05:11,308 [main] INFO logger_File - Success message is displayed
+2021-11-11 16:05:14,430 [main] INFO logger_File - One item dispalyed
+2021-11-11 16:05:14,590 [main] INFO logger_File - User clicked on Cart option
+2021-11-11 16:09:20,490 [main] INFO logger_File - Actual title is matching expected title
+2021-11-11 16:09:20,649 [main] INFO logger_File - User clicked on laptop and notebook tab
+2021-11-11 16:09:31,329 [main] INFO logger_File - user clicked on Add To Cart button
+2021-11-11 16:09:31,445 [main] INFO logger_File - Success message is displayed
+2021-11-11 16:09:34,557 [main] INFO logger_File - One item dispalyed
+2021-11-11 16:09:34,700 [main] INFO logger_File - User clicked on Cart option
+2021-11-11 16:09:36,174 [main] INFO logger_File - User removed item from the cart
+2021-11-11 16:14:39,504 [main] INFO logger_File - Actual title is matching expected title
+2021-11-11 16:14:39,671 [main] INFO logger_File - User clicked on laptop and notebook tab
+2021-11-11 16:14:56,185 [main] INFO logger_File - user clicked on Add To Cart button
+2021-11-11 16:14:56,395 [main] INFO logger_File - Success message is displayed
+2021-11-11 16:14:59,493 [main] INFO logger_File - One item dispalyed
+2021-11-11 16:14:59,603 [main] INFO logger_File - User clicked on Cart option
+2021-11-11 16:15:01,640 [main] INFO logger_File - User removed item from the cart
+2021-11-11 17:12:55,155 [main] INFO logger_File - Actual title is matching expected title
+2021-11-11 17:12:55,210 [main] INFO logger_File - User clicked on laptop and notebook tab
+2021-11-11 17:12:57,049 [main] INFO logger_File - User clicked on Macbook comparison button
+2021-11-11 17:14:38,676 [main] INFO logger_File - Actual title is matching expected title
+2021-11-11 17:14:38,769 [main] INFO logger_File - User clicked on laptop and notebook tab
+2021-11-11 17:14:41,138 [main] INFO logger_File - User clicked on Macbook comparison button
+2021-11-11 17:14:41,181 [main] INFO logger_File - User clicked on macbook air comparison button
+2021-11-11 17:15:42,825 [main] INFO logger_File - Actual title is matching expected title
+2021-11-11 17:15:42,886 [main] INFO logger_File - User clicked on laptop and notebook tab
+2021-11-11 17:15:49,624 [main] INFO logger_File - User clicked on Macbook comparison button
+2021-11-11 17:15:49,671 [main] INFO logger_File - User clicked on macbook air comparison button
+2021-11-11 17:16:21,305 [main] INFO logger_File - Actual title is matching expected title
+2021-11-11 17:16:21,360 [main] INFO logger_File - User clicked on laptop and notebook tab
+2021-11-11 17:16:24,614 [main] INFO logger_File - User clicked on Macbook comparison button
+2021-11-11 17:16:24,663 [main] INFO logger_File - User clicked on macbook air comparison button
+2021-11-11 17:56:28,668 [main] INFO logger_File - Actual title is matching expected title
+2021-11-11 17:56:28,729 [main] INFO logger_File - User clicked on laptop and notebook tab
+2021-11-11 17:56:34,230 [main] INFO logger_File - User clicked on mac pro
+2021-11-11 17:57:52,029 [main] INFO logger_File - Actual title is matching expected title
+2021-11-11 17:57:52,089 [main] INFO logger_File - User clicked on laptop and notebook tab
+2021-11-11 17:57:58,711 [main] INFO logger_File - User clicked on mac pro
+2021-11-11 17:57:58,755 [main] INFO logger_File - Price tage is present
+2021-11-11 18:03:16,561 [main] INFO logger_File - Actual title is matching expected title
+2021-11-11 18:03:16,614 [main] INFO logger_File - User clicked on laptop and notebook tab
+2021-11-11 18:03:28,818 [main] INFO logger_File - User clicked on mac pro
+2021-11-11 18:03:29,293 [main] INFO logger_File - Price tage is present
+2021-11-14 20:56:10,800 [main] INFO logger_File - Actual title is matching expected title
+2021-11-14 20:56:11,092 [main] INFO logger_File - user clicked desktop menu
+2021-11-14 20:56:12,394 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-14 20:56:14,819 [main] INFO logger_File - User clicked on Canon Add to Cart Button
+2021-11-14 20:56:15,078 [main] INFO logger_File - User clicked on write a review link
+2021-11-14 20:56:15,540 [main] INFO logger_File - information passed
+2021-11-14 20:56:15,786 [main] INFO logger_File - User clicked on Continue Button
+2021-11-14 21:00:44,333 [main] INFO logger_File - Actual title is matching expected title
+2021-11-14 21:00:44,584 [main] INFO logger_File - user clicked desktop menu
+2021-11-14 21:00:45,206 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-14 21:00:47,070 [main] INFO logger_File - User clicked on Canon Add to Cart Button
+2021-11-14 21:00:47,347 [main] INFO logger_File - User clicked on write a review link
+2021-11-14 21:00:47,993 [main] INFO logger_File - information passed
+2021-11-14 21:00:48,259 [main] INFO logger_File - User clicked on Continue Button
+2021-11-14 21:01:45,535 [main] INFO logger_File - Actual title is matching expected title
+2021-11-14 21:01:45,814 [main] INFO logger_File - user clicked desktop menu
+2021-11-14 21:01:46,502 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-14 21:01:48,504 [main] INFO logger_File - User clicked on Canon Add to Cart Button
+2021-11-14 21:01:48,840 [main] INFO logger_File - User clicked on write a review link
+2021-11-14 21:01:49,488 [main] INFO logger_File - information passed
+2021-11-14 21:01:49,786 [main] INFO logger_File - User clicked on Continue Button
+2021-11-14 21:03:59,976 [main] INFO logger_File - Actual title is matching expected title
+2021-11-14 21:04:00,293 [main] INFO logger_File - user clicked desktop menu
+2021-11-14 21:04:01,012 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-14 21:04:02,912 [main] INFO logger_File - User clicked on Canon Add to Cart Button
+2021-11-14 21:04:03,152 [main] INFO logger_File - User clicked on write a review link
+2021-11-14 21:04:03,721 [main] INFO logger_File - information passed
+2021-11-14 21:04:04,018 [main] INFO logger_File - User clicked on Continue Button
+2021-11-14 21:04:04,113 [main] INFO logger_File - Actual success message matches expected message
+2021-11-14 21:06:47,820 [main] INFO logger_File - Actual title is matching expected title
+2021-11-14 21:06:48,082 [main] INFO logger_File - user clicked desktop menu
+2021-11-14 21:06:48,643 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-14 21:06:50,410 [main] INFO logger_File - User clicked on Canon Add to Cart Button
+2021-11-14 21:06:50,660 [main] INFO logger_File - User clicked on write a review link
+2021-11-14 21:06:51,297 [main] INFO logger_File - information passed
+2021-11-14 21:06:51,539 [main] INFO logger_File - User clicked on Continue Button
+2021-11-14 21:06:51,598 [main] INFO logger_File - Actual success message matches expected message

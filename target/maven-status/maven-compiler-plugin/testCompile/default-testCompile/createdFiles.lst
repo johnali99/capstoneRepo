@@ -1,0 +1,3 @@
+stepDefinition\DesktopStepDefinition.class
+stepDefinition\Initializer.class
+runner\TestRunner.class
