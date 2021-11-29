@@ -522,3 +522,32 @@
 2021-11-14 21:06:51,297 [main] INFO logger_File - information passed
 2021-11-14 21:06:51,539 [main] INFO logger_File - User clicked on Continue Button
 2021-11-14 21:06:51,598 [main] INFO logger_File - Actual success message matches expected message
+2021-11-29 15:33:40,924 [main] INFO logger_File - Actual title is matching expected title
+2021-11-29 15:33:41,190 [main] INFO logger_File - user clicked desktop menu
+2021-11-29 15:33:41,970 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-29 15:33:42,009 [main] INFO logger_File - Desktop text present
+2021-11-29 15:33:42,030 [main] INFO logger_File - Desktop image is present in the page
+2021-11-29 15:33:42,049 [main] INFO logger_File - Example of category description text is present
+2021-11-29 15:33:42,069 [main] INFO logger_File - Refine Search text is present
+2021-11-29 15:33:42,095 [main] INFO logger_File - list icon is present
+2021-11-29 15:33:42,115 [main] INFO logger_File - Gird icon is present
+2021-11-29 15:34:50,325 [main] INFO logger_File - Actual title is matching expected title
+2021-11-29 15:34:50,571 [main] INFO logger_File - user clicked desktop menu
+2021-11-29 15:34:54,502 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-29 15:34:54,542 [main] INFO logger_File - Desktop text present
+2021-11-29 15:34:54,571 [main] INFO logger_File - Desktop image is present in the page
+2021-11-29 15:34:54,595 [main] INFO logger_File - Example of category description text is present
+2021-11-29 15:34:54,615 [main] INFO logger_File - Refine Search text is present
+2021-11-29 15:34:54,642 [main] INFO logger_File - list icon is present
+2021-11-29 15:34:54,665 [main] INFO logger_File - Gird icon is present
+2021-11-29 15:36:35,596 [main] INFO logger_File - User clicked on shopping cart
+2021-11-29 15:39:11,427 [main] INFO logger_File - User clicked on shopping cart
+2021-11-29 15:39:48,506 [main] INFO logger_File - Actual title is matching expected title
+2021-11-29 15:39:48,558 [main] INFO logger_File - user clicked desktop menu
+2021-11-29 15:39:49,173 [main] INFO logger_File - User clicked on show all desktops menu
+2021-11-29 15:39:49,214 [main] INFO logger_File - Desktop text present
+2021-11-29 15:39:49,243 [main] INFO logger_File - Desktop image is present in the page
+2021-11-29 15:39:49,268 [main] INFO logger_File - Example of category description text is present
+2021-11-29 15:39:49,294 [main] INFO logger_File - Refine Search text is present
+2021-11-29 15:39:49,319 [main] INFO logger_File - list icon is present
+2021-11-29 15:39:49,345 [main] INFO logger_File - Gird icon is present

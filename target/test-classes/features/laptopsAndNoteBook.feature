@@ -7,6 +7,7 @@ Background:
 		And User click on Show all Laptop &NoteBook option
 
 
+@
 Scenario: Add and Remove a Mac book from Cart
 
 		And User click on MacBook  item

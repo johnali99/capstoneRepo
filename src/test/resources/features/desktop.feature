@@ -5,6 +5,7 @@ Feature: Desktops
     When User click on Desktops tab
     And User click on Show all desktops
 
+@smokeTesting
   Scenario: User verify all items are present in Desktops tab
     Then User should see all items are present in Desktop page
 
