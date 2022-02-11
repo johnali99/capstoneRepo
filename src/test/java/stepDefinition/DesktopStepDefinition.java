@@ -27,7 +27,7 @@ public class DesktopStepDefinition extends Base {
 	    
 	    Assert.assertEquals(actualTitle, expectedTitle);
 	    logger.info("Actual title is matching expected title");
-	   
+	   //this is a message
 	}
 	@When("^User click on Desktops tab")
 	public void user_click_on_desktops_tab() {
