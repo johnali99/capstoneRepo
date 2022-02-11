@@ -11,10 +11,10 @@
         "steps": [
           {
             "result": {
-              "duration": 42097800,
+              "duration": 69963400,
               "status": "passed"
             },
-            "line": 4,
+            "line": 5,
             "name": "User is on Retail website",
             "match": {
               "location": "stepDefinition.DesktopStepDefinition.user_is_on_retail_website()"
@@ -23,36 +23,36 @@
           },
           {
             "result": {
-              "duration": 47384400,
+              "duration": 88947400,
               "status": "passed"
             },
-            "line": 5,
-            "name": "User click on Desktops tab",
+            "line": 6,
+            "name": "User click on Laptop \u0026NoteBook tab",
             "match": {
-              "location": "stepDefinition.DesktopStepDefinition.user_click_on_desktops_tab()"
+              "location": "stepDefinition.LaptopsAndNoteBook.user_click_on_laptop_note_book_tab()"
             },
             "keyword": "When "
           },
           {
             "result": {
-              "duration": 615504600,
+              "duration": 526702800,
               "status": "passed"
             },
-            "line": 6,
-            "name": "User click on Show all desktops",
+            "line": 7,
+            "name": "User click on Show all Laptop \u0026NoteBook option",
             "match": {
-              "location": "stepDefinition.DesktopStepDefinition.user_click_on_show_all_desktops()"
+              "location": "stepDefinition.LaptopsAndNoteBook.user_click_on_show_all_laptop_note_book_option()"
             },
             "keyword": "And "
           }
         ]
       },
       {
-        "start_timestamp": "2021-11-29T20:39:45.368Z",
+        "start_timestamp": "2022-02-11T17:05:48.564Z",
         "before": [
           {
             "result": {
-              "duration": 3019341100,
+              "duration": 4494056100,
               "status": "passed"
             },
             "match": {
@@ -60,15 +60,16 @@
             }
           }
         ],
-        "line": 9,
-        "name": "User verify all items are present in Desktops tab",
+        "line": 11,
+        "name": "Add and Remove a Mac book from Cart",
         "description": "",
-        "id": "desktops;user-verify-all-items-are-present-in-desktops-tab",
+        "id": "laptop-\u0026-notebooks;add-and-remove-a-mac-book-from-cart",
         "after": [
           {
             "result": {
-              "duration": 5140298900,
-              "status": "passed"
+              "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d97.0.4692.99)\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027DESKTOP-N5NJ087\u0027, ip: \u002710.0.0.74\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u002717.0.1\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\\Users\\Ali\\AppData\\Local\\...}, goog:chromeOptions: {debuggerAddress: localhost:53198}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 27f93412cf1dc4ab16ba06473cf97981\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)\r\n\tat java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)\r\n\tat java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.close(RemoteWebDriver.java:442)\r\n\tat core.Base.tearDown(Base.java:67)\r\n\tat stepDefinition.Initializer.afterHook(Initializer.java:19)\r\n",
+              "duration": 9084778300,
+              "status": "failed"
             },
             "match": {
               "location": "stepDefinition.Initializer.afterHook(io.cucumber.java.Scenario)"
@@ -80,29 +81,118 @@
         "steps": [
           {
             "result": {
-              "duration": 170493100,
+              "duration": 1601115000,
               "status": "passed"
             },
-            "line": 10,
-            "name": "User should see all items are present in Desktop page",
+            "line": 13,
+            "name": "User click on MacBook  item",
             "match": {
-              "location": "stepDefinition.DesktopStepDefinition.user_should_see_all_items_are_present_in_desktop_page()"
+              "location": "stepDefinition.LaptopsAndNoteBook.user_click_on_mac_book_item()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 87949500,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "User click add to Cart button",
+            "match": {
+              "location": "stepDefinition.DesktopStepDefinition.user_click_add_to_cart_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 99942300,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "User should see a success message \u0027Success: You have added MacBook to your shopping cart!\u0027",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Success: You have added MacBook to your shopping cart!",
+                  "offset": 35
+                }
+              ],
+              "location": "stepDefinition.LaptopsAndNoteBook.user_should_see_a_message(java.lang.String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d97.0.4692.99)\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027DESKTOP-N5NJ087\u0027, ip: \u002710.0.0.74\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u002717.0.1\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\\Users\\Ali\\AppData\\Local\\...}, goog:chromeOptions: {debuggerAddress: localhost:53198}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 27f93412cf1dc4ab16ba06473cf97981\n*** Element info: {Using\u003dxpath, value\u003d/html[1]/body[1]/header[1]/div[1]/div[1]/div[3]/div[1]/button[1]/span[1]}\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)\r\n\tat java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)\r\n\tat java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)\r\n\tat org.openqa.selenium.By$ByXPath.findElement(By.java:353)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)\r\n\tat org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)\r\n\tat org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)\r\n\tat jdk.proxy2/jdk.proxy2.$Proxy21.isDisplayed(Unknown Source)\r\n\tat pageObject.LaptopAndNotebookPageObject.OneItemDisplayed(LaptopAndNotebookPageObject.java:112)\r\n\tat stepDefinition.LaptopsAndNoteBook.user_should_see_tem_s_showed_to_the_cart(LaptopsAndNoteBook.java:44)\r\n\tat ✽.User should see \u00271 tem(s)-602.00\u0027 showed to the cart(classpath:features/laptopsAndNoteBook.feature:16)\r\n",
+              "duration": 15192301000,
+              "status": "failed"
+            },
+            "line": 16,
+            "name": "User should see \u00271 tem(s)-602.00\u0027 showed to the cart",
+            "match": {
+              "arguments": [
+                {
+                  "val": "1 tem(s)-602.00",
+                  "offset": 17
+                }
+              ],
+              "location": "stepDefinition.LaptopsAndNoteBook.user_should_see_tem_s_showed_to_the_cart(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 998900,
+              "status": "skipped"
+            },
+            "line": 17,
+            "name": "User click on cart option",
+            "match": {
+              "location": "stepDefinition.LaptopsAndNoteBook.user_click_on_cart_option()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 18,
+            "name": "user click on red X button to remove the item from cart",
+            "match": {
+              "location": "stepDefinition.LaptopsAndNoteBook.user_click_on_red_x_button_to_remove_the_item_from_cart()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 19,
+            "name": "item should be removed and cart should show \u00270 item(s)\u0027",
+            "match": {
+              "arguments": [
+                {
+                  "val": "0 item(s)",
+                  "offset": 45
+                }
+              ],
+              "location": "stepDefinition.LaptopsAndNoteBook.item_should_be_removed_and_cart_should_show_item_s(java.lang.String)"
             },
             "keyword": "Then "
           }
         ],
         "tags": [
           {
-            "name": "@smokeTesting"
+            "name": "@RegTest"
           }
         ]
       }
     ],
-    "name": "Desktops",
+    "name": "Laptop \u0026 NoteBooks",
     "description": "",
-    "id": "desktops",
+    "id": "laptop-\u0026-notebooks",
     "keyword": "Feature",
-    "uri": "classpath:features/desktop.feature",
+    "uri": "classpath:features/laptopsAndNoteBook.feature",
     "tags": []
   }
 ]

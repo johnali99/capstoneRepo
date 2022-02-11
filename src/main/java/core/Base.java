@@ -29,6 +29,7 @@ public class Base {
 	private String propertyPath = ".\\src\\test\\resources\\input\\property.properties";
 	private String log4jPath = ".\\src\\test\\resources\\input\\log4j.properties";
 
+	//This is the base class
 	public Base() {
 
 		try {
@@ -67,6 +68,7 @@ public class Base {
 		driver.quit();
 	}
 
+	//This is for cross-browser testing
 	public static void browser() {
 		String browerName = getBrowser();
 

@@ -12,7 +12,7 @@ import utilities.CucumberReportingConfig;
 
 		features = "classpath:features",
 		glue = "stepDefinition",
-		tags = "@smokeTesting",	
+		tags = "@RegTest",	
 		dryRun = false,
 		monochrome = true,
 		strict = true,

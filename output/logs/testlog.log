@@ -551,3 +551,28 @@
 2021-11-29 15:39:49,294 - logger_File -INFO - Refine Search text is present
 2021-11-29 15:39:49,319 - logger_File -INFO - list icon is present
 2021-11-29 15:39:49,345 - logger_File -INFO - Gird icon is present
+2021-11-29 18:32:36,125 - logger_File -INFO - Actual title is matching expected title
+2021-11-29 18:32:36,179 - logger_File -INFO - User clicked on laptop and notebook tab
+2021-11-29 18:32:39,011 - logger_File -INFO - user clicked on Add To Cart button
+2021-11-29 18:32:39,051 - logger_File -INFO - Success message is displayed
+2021-11-29 18:32:42,095 - logger_File -INFO - One item dispalyed
+2021-11-29 18:32:42,138 - logger_File -INFO - User clicked on Cart option
+2021-11-29 18:32:42,181 - logger_File -INFO - User removed item from the cart
+2022-01-09 00:42:56,785 - logger_File -INFO - Actual title is matching expected title
+2022-01-09 00:42:56,870 - logger_File -INFO - User clicked on laptop and notebook tab
+2022-01-09 00:42:58,725 - logger_File -INFO - user clicked on Add To Cart button
+2022-01-09 00:42:58,790 - logger_File -INFO - Success message is displayed
+2022-01-09 00:43:01,832 - logger_File -INFO - One item dispalyed
+2022-01-09 00:43:01,876 - logger_File -INFO - User clicked on Cart option
+2022-01-09 00:43:01,937 - logger_File -INFO - User removed item from the cart
+2022-02-04 14:18:08,896 - logger_File -INFO - Actual title is matching expected title
+2022-02-04 14:18:08,956 - logger_File -INFO - User clicked on laptop and notebook tab
+2022-02-04 14:18:10,541 - logger_File -INFO - user clicked on Add To Cart button
+2022-02-04 14:18:10,582 - logger_File -INFO - Success message is displayed
+2022-02-04 14:18:13,629 - logger_File -INFO - One item dispalyed
+2022-02-04 14:18:13,675 - logger_File -INFO - User clicked on Cart option
+2022-02-04 14:18:13,717 - logger_File -INFO - User removed item from the cart
+2022-02-11 12:05:53,198 - logger_File -INFO - Actual title is matching expected title
+2022-02-11 12:05:53,293 - logger_File -INFO - User clicked on laptop and notebook tab
+2022-02-11 12:05:55,512 - logger_File -INFO - user clicked on Add To Cart button
+2022-02-11 12:05:55,613 - logger_File -INFO - Success message is displayed

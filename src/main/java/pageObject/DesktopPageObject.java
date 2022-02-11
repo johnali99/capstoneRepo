@@ -354,7 +354,6 @@ public class DesktopPageObject extends Base{
 		clickContinueButton.click();
 	}
 	
-	//////////////////////////////
 	public String reviewSuccess() {
 		return reviewSuccessMsg.getText();
 	}

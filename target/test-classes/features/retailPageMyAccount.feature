@@ -35,4 +35,4 @@ Scenario: Edit your account Information
 		|firstname|lastName|email|telephone|
 		|Ali|Ali|sar@gmail.com|4356668878|
 		And User should click on continue button
-		Then User should see a message 'Success: Your account has been successfully updated'
+		Then User should see a text 'Success: Your account has been successfully updated'
